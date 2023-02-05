@@ -31,5 +31,5 @@
 
     ?>
     <br>
-    <a href="#">Support Panel</a>
+    <a href="../message_admin.php">Support Panel</a>
 <body>

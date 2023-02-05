@@ -24,7 +24,7 @@
             <a class="nav-link" href="products.php">Products</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Support</a>
+            <a class="nav-link" href="message_client.php">Support</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="logout.php">Log Out</a>

@@ -41,7 +41,7 @@
         <div class="card-body">
           <h5 class="card-title">Support Page</h5>
           <p class="card-text">Contact support regarding any order issues & suggestions.</p>
-          <a href="#" class="btn btn-primary">Support</a>
+          <a href="message_client.php" class="btn btn-primary">Support</a>
         </div>
       </div>
       <div class="card text-center" style="width: 18rem;">
